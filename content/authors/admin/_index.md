@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc researcher in theoretical physics
+role: Postdoctoral researcher in theoretical physics
 
 # Organizations/Affiliations
 organizations:
